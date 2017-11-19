@@ -1,0 +1,10 @@
+Introduction
+____________
+
+.. notebook:: parambokeh ../../examples/getting_started/Introduction.ipynb
+    :offset: 1
+
+
+-------
+
+`Right click to download this notebook from GitHub. <https://raw.githubusercontent.com/ioam/parambokeh/master/examples/getting_started/Introduction.ipynb>`_

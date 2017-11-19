@@ -1,0 +1,10 @@
+View Parameters
+_______________
+
+.. notebook:: parambokeh ../../examples/user_guide/View_Parameters.ipynb
+    :offset: 1
+
+
+-------
+
+`Right click to download this notebook from GitHub. <https://raw.githubusercontent.com/ioam/parambokeh/master/examples/user_guide/View_Parameters.ipynb>`_
